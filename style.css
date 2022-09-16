@@ -1,0 +1,114 @@
+.maly-obr {
+  width: 30px;
+  float: left;
+  margin-right: 20px; 
+}
+
+.fotka {
+  float: right;
+  margin-left: 50px;
+  width: 150px;
+  border-radius: 20px;
+}
+
+body {
+  background-color: #CAF0F8;
+  line-height: 1,5;
+  font-size: 20px;
+  margin: 0;
+  font-family: 'EB Garamond', serif;
+  color: #03045E;
+}
+
+section, footer {
+  padding: 50px 15%;
+  overflow: auto;
+  
+}
+
+
+.paticka div {
+  width: 30%;
+  float:left;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+}
+
+.kontakty,
+.vzdelani {
+  background-color: #0077B6;
+}
+
+.kontakty img{
+  width: 25px;
+  float: left;
+  margin-right: 20px; 
+}
+
+.vzdelani {
+  color: #CAF0F8;
+}
+
+.datum {
+  padding-left: 50px;
+  padding-right: 50px;
+  width: 100px;
+}
+
+table {
+  border-spacing: 0;
+}
+
+.zkusenosti td {
+  text-align: left;
+  border-bottom: 1px solid black;
+  padding: 10px 0;
+}
+
+
+.pozice {
+  width: 300px;
+  font-weight: bold;
+}
+
+.odrazky {
+  line-height: 2;
+}
+
+.kontakty td {
+  text-align: left;
+  padding: 0 15px;
+  font-size: 16px;
+}
+
+.kontakty {
+  padding: 0 15%;
+  color: #CAF0F8;
+}
+
+a:link,
+a:visited {
+  color: #CAF0F8;
+}
+
+a:hover {
+  color: white;
+}
+
+.hlavicka {
+  background-color: #0077B6;
+  color:  #03045E;
+  padding: 50px 30px;
+}
+
+.vzdelani h3{
+  margin-top: 36px;
+}
