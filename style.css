@@ -90,8 +90,9 @@ table {
 }
 
 .kontakty {
-  padding: 0 15%;
+  padding: 15px 15%;
   color: #CAF0F8;
+  overflow: auto;
 }
 
 a:link,
